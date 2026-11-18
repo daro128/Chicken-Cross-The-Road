@@ -8,6 +8,15 @@ Everything on screen (chicken, cars, trees, roads, and UI) is made from Unity pr
 ## Gameplay Demo
 
 [Watch Gameplay](video/demo.mp4)
+## 🎮 Gameplay Demo
+
+Watch the gameplay demonstration of Chicken Rush:
+
+[▶️ Watch Chicken Rush Gameplay](https://drive.google.com/file/d/14FGmT2y5ut3XL0ARDC2uNHmaISaG-c_5/view?usp=sharing)
+
+---
+
+
 
 ---
 
