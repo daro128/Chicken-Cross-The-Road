@@ -5,6 +5,11 @@ A colourful low-poly 3D chicken-crossing game inspired by **Crossy Road**, built
 Everything on screen (chicken, cars, trees, roads, and UI) is made from Unity primitives and built-in UI, so there are **no paid assets and no external dependencies**.
 
 ---
+## Gameplay Demo
+
+[Watch Gameplay](Videos/demo.mp4)
+
+---
 
 ## Game objective
 
