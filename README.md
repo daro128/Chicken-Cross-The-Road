@@ -7,7 +7,7 @@ Everything on screen (chicken, cars, trees, roads, and UI) is made from Unity pr
 ---
 ## Gameplay Demo
 
-[Watch Gameplay](Videos/demo.mp4)
+[Watch Gameplay](video/demo.mp4)
 
 ---
 
